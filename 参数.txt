@@ -1,0 +1,7 @@
+{'voltage': '21.20', 'current': '30.00', 'warnvalue': '10', 'warntime': '20', 'stopvalue' :  '20', 'stoptime': '20'}
+
+{'warnvalue': '10', 'warntime': '20', 'stopvalue' :  '20', 'stoptime': '20'}
+
+{'time' : '2018-05-12,11:33'}
+
+{'freq': '1000'}
